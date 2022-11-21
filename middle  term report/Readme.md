@@ -1,7 +1,7 @@
 # 机器学习期中报告
 AI绘画生成的图片，关键词分别是''squirrels in the woods'',''a furry cat''和''a  floating castle''，最后一张是尝试照片动漫化却一直效果不好（可以看出来完全不像）。
 ![](https://github.com/Wesleystormrage/meachine_learning_class/blob/main/middle%20%20term%20report/pictures/squirrels_in_the_woods.png)
-![](https://github.com/Wesleystormrage/meachine_learning_class/blob/main/middle%20%20term%20report/pictures/a cute furry cat.png)
+![](https://github.com/Wesleystormrage/meachine_learning_class/blob/main/middle%20%20term%20report/pictures/a%20cute%20furry%20cat.png)
 ![](https://github.com/Wesleystormrage/meachine_learning_class/blob/main/middle%20%20term%20report/pictures/a_floating_castle.png)
 ![](https://github.com/Wesleystormrage/meachine_learning_class/blob/main/middle%20%20term%20report/pictures/3601394018_a_photo_of_a_handsome_man_Studio_Ghibli_trending_on_artstation__Highly_detailed__smooth__elegant_ill.png)
 <p>感觉像是旧活重整，借着机器学习期中作业，了解一下最近（之前）比较的ai图像生成。
